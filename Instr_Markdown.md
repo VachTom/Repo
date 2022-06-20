@@ -44,7 +44,7 @@ Python
     6. elif num == 3: 
     7.   print("Three")
     8. else: 
-    9.   print("Something else") x = 4
+    9.   print("Something else") 
   
     
   
