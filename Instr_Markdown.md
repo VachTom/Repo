@@ -35,7 +35,21 @@
 
 Также нашел команду отмена последнего комита *__git reset HEAD~__* (Буду применять во время домашки)
 
-
+Python
+    1. num = 3
+    2. if num == 1:
+    3.   print("One")
+    4. elif num == 2:
+    5.   print("Two")
+    6. elif num == 3: 
+    7.   print("Three")
+    8. else: 
+    9.   print("Something else") x = 4
+  
+    
+  
+    
+    
 
 
 
